@@ -5,20 +5,22 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: я?
     
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+  Быстро и кратко:
+  Пишу на python, иногда приходится использовать бд Mysql. Изучаю golang
+  Когда будет время оформлю
 
 ---
 
+### :hammer_and_wrench: че щас делаю?
+https://github.com/Redume/EveryDayPhotoNasa
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+ 
+
+---
 ### :fire: My Stats :
     
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kodiprogdis&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
-</div>
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kodiprogdis&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
