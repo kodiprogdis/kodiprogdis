@@ -1,26 +1,14 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div>
-  <img src="https://komarev.com/ghpvc/?username=kodiprogdis&style=flat-square&color=blue" alt="" align="center"/>
+<h3 align="center">A python-developer from Russia</h3>
 
----
+- 🔭 I’m currently working on **a project for my educational institution**
 
-### :hammer_and_wrench: я?
-    
-  Быстро и кратко:
-  Пишу на python, иногда приходится использовать бд Mysql. Изучаю golang
-  Когда будет время оформлю
+- 🌱 I’m currently learning **Django, HTML/CSS, JS**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="/https://t.me/by_kodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://t.me/by_kodi" height="30" width="40" /></a>
+</p>
 
-### :hammer_and_wrench: че щас делаю?
-https://github.com/Redume/EveryDayPhotoNasa
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
- 
-
----
-### :fire: My Stats :
-    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kodiprogdis&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
