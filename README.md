@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Django, HTML/CSS, JS**
 
+- 👨‍💻 My blog [https://t.me/kodiIT](https://t.me/kodiIT)
+
 - 💬 I'm know **Python**
 
 - 🏢 Education **Yandex Academy Lyceum(1/2)**
