@@ -1,6 +1,6 @@
 <h3 align="center">A python-developer from Russia</h3>
 
-- 🔭 I’m currently working on **a project for my educational institution**
+- 🔭 I’m currently working on **xxx**
 
 - 🌱 I’m currently learning **Django, HTML/CSS, JS**
 
@@ -8,7 +8,7 @@
 
 - 💬 I'm know **Python**
 
-- 🏢 Education **Yandex Academy Lyceum(1/2)**
+- 🏢 Education **Yandex Academy Lyceum(2/2)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
