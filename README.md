@@ -8,7 +8,7 @@
 
 - 💬 I'm know **Python**
 
-- 🏢 Education **Yandex Academy Lyceum(2/2)** (rating: 1.03, time: 09.09.2023 19:27)
+- 🏢 Education **Yandex Academy Lyceum(2/2)** (rating: 2.29, time: 16.09.2023 19:19)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
