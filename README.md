@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Django, HTML/CSS, JS**
 
-- 👨‍💻 My blog [https://t.me/kodiIT](https://t.me/kodiIT)
+- 👨‍💻 My blog [https://t.me/KoDIProd](https://t.me/KoDIProd)
 
 - 💬 I'm know **Python**
 
